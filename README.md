@@ -229,7 +229,6 @@
     <div class="container">
         <header>
             <div class="header-content">
-                <h1>RAMDANE MOUFFOK</h1>
                 <p class="subtitle">Géographe | Aménageur du Territoire | Developpeur SIG</p>
             
                 <div class="contact">
